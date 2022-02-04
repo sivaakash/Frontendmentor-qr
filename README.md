@@ -1,1 +1,1 @@
-# Frontendmentor-qr
+# Frontendmentorqr
